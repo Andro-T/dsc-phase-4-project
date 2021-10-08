@@ -8,6 +8,10 @@ Finding Investment Opportunities in Hawaii.
 
 Our Investment Consustancy has been approached to provide advice on which areas in Hawaii would be the best locations to invest into. 
 
+**Measuring Success**
+To measure this we will be focusing on Return on Investment (ROI) as the primary investment. ROI is used to measure the profitability of an event or investment and works on a relative basis (Amount Gained minus Amount Spent) divided by Amount Spent. This means that the absolute value of the property is not relevant for our investment decisions. If it turns out that surf shacks have the highest potential return, we will still recommend them.
+
+
 ### The Data
 
 We will be using a dataset from Zillow covering housing data from 1996 till 2018. This data includes the Financial Crisis and will impact on how we approach the modeling. This data was split into just those covering Hawaii. The graph below shows the mean price in different zipcodes. There is a large disparity but the mean property value in 2018 was roughly $677,000. The standard deviation is quite high because of the very large range present in property values.
